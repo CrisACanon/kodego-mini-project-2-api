@@ -1,0 +1,615 @@
+{
+  "shops": [
+    {
+      "brand": "Asus",
+      "title": "Asus Desktop",
+      "category": "Desktop",
+      "product_type": "Gaming",
+      "price": 19000,
+      "image": "/images/9.png",
+      "id": 1
+    },
+    {
+      "brand": "Asus",
+      "title": "ASUS Zenbook 14 OLED (UX3405) New Zen with AI",
+      "description": "Go the extra mile with the remarkably sleek Zenbook 14 OLED — the ultimate ultraportable laptop that takes sophistication to a whole new level. Seize every moment using the enhanced extended-life battery.",
+      "specification": "14' 3K OLED 16:10 120 Hz refresh rate, Intel® Core™ Ultra 155H Processor 16GB DDR5, 1TB PCIe® 4.0 SSD, Intel® Arc™ Graphics, Intel® AI Boost NPU, Windows 11 Home, Office Home and Student 2021 included",
+      "category": "Laptop",
+      "product_type": "Office",
+      "price": 69995,
+      "image": "/images/11.png",
+      "id": 2
+    },
+    {
+      "brand": "Acer",
+      "title": "Predator Helios Neo PHN16-71-59F1 OPI",
+      "description": "Elevate your gaming experience with the Acer Predator Helios Neo laptop. Intel Core i5-13500HX, 8GB DDR5, 512GB PCIe Gen4 SSD, RTX 4050 GPU, and Windows 11 deliver top-notch performance. Plus, it comes with a stylish Acer Predator Gaming Chair in Black/Blue.",
+      "specification": "Windows 11 Home, Intel® Core i5-13500HX, 8GB of DDR5 upgradable to 32 GB, 512GB SSD 16.0' display with IPS , Full HD 1920 x1080, NVIDIA® GeForce RTX™ 4050 with 6GB of dedicated GDDR6 VRAM",
+      "category": "Laptop",
+      "product_type": "Gaming",
+      "price": 75999,
+      "image": "/images/4.png",
+      "id": 3
+    },
+    {
+      "brand": "Acer",
+      "title": "Aspire TC-1750 I For Office (Desktop and Monitor Bundle)",
+      "description": "Aspire TC-1750 | Intel Core i5-12400 processor, 6 cores 12 Threads, 18MB L3 Cache, 2.5GHz Base 4.4 GHz Max Frequency 65W PBP | 8 GB DDR4 3200MHz UDIMM | 256 GB M.2 2280 PCI-E SSD 1 TB 3.5-inch 7200 RPM | NVIDIA GeForce GT 730 with 2 GB of DDR3 (supporting: DVI, HDMI)",
+      "specification": "Windows 11 Home SL, Intel® Core™ i5-12400 processor, 8GB DDR4, 256GB SSD + 1TB HDD, NVIDIA® GeForce® GT 730 with 2 GB of DDR3, 21.5 screen, 1920x1080 resolution",
+      "category": "Desktop",
+      "product_type": "Office",
+      "image": "/images/12.jpg",
+      "price": 47999,
+      "id": 4
+    },
+    {
+      "brand": "Acer",
+      "title": "Predator Galea 350 PHW920 (Gaming Headset)",
+      "description": "32 Ohm Impedance | 116 dB Sound Pressure Level | 20 Hz Minimum Frequency Response | 20 kHz Maximum Frequency Response | Mini-phone (3.5mm) / USB | Color Black | Circumaural | Weight (Approximate) 12.42 oz | Microphone Technology Noise Cancelling | Microphone Design Boom",
+      "specification": "Impedance: 32 Ohm, Sound Pressure Level:  116 dB, Minimum Frequency Response:20 Hz, Maximum Frequency Response:20 kHz, Earpiece, Earpiece Design:Over-the-head, Earpiece Type:Binaural ",
+      "category": "Peripherals",
+      "product_type": "Headset",
+      "price": 3999,
+      "image": "/images/13.png",
+      "id": 5
+    },
+    {
+      "brand": "Epson",
+      "title": "Epson L3210 (PRINT/SCAN/COPY) All-in-One Printer",
+      "description": "Printing Method Epson print head | Nozzle Configuration | 180 Nozzles Black, 59 Nozzles per Color | 3 pl, With Variable-Sized Droplet Technology | Ink Technology Dye Ink.",
+      "specification": "Printing Method: Epson Micro Piezo? print head, Nozzle Configuration: 180 Nozzles Black, 59 Nozzles per Color, Minimum Droplet Size: 3 pl, With Variable-Sized Droplet Technology.",
+      "category": "Peripherals",
+      "product_type": "Printer & Scanner",
+      "image": "/images/14.png",
+      "price": 8795,
+      "id": 6
+    },
+    {
+      "brand": "Canon",
+      "title": "CANON INKJET PRINTER TS207",
+      "description": "1. Printer 2. ISO Standard print speed (A4): up to 7.7 ipm black / 4.0 ipm colour 3. Hi-speed USB 2.0 4. Recommended monthly print volume: 10 - 80 pages 5. Product Warranty will be under Silicon Valley",
+      "specification": "Printer 2. ISO Standard print speed (A4)",
+      "category": "Peripherals",
+      "product_type": "Printer & Scanner",
+      "image": "/images/15.png",
+      "price": 2195,
+      "id": 7
+    },
+    {
+      "brand": "Seagate",
+      "title": "1TB Seagate One Touch HDD Black",
+      "description": "Seagate One Touch HDD with Password 1TB External Hard Drive, Can use for PC, Laptop and Chromebook, 6mo Mylio Photos and Dropbox, Rescue Service, 3 Years Warranty ",
+      "specification": "EXTERNAL HDD PORTABLE WITH PASSWORD PROTECTION",
+      "category": "Components",
+      "product_type": "HDD",
+      "image": "/images/16.png",
+      "price": 3600,
+      "id": 8
+    },
+    {
+      "brand": "TP-Link",
+      "title": "ARCHER AX53 AX3000 DUAL BAND WIFI6 ROUTER",
+      "description": "Next-Gen Gigabit Wi-Fi 6 Speed 2402 Mbps on 5 GHz and 574 Mbps on 2.4 GHz band ensure smoother streaming and faster downloads | Connect More Devices OFDMA technology increases capacity by 4 times to enable simultaneous transmission to more devices ",
+      "specification": "Wi-Fi 6, IEEE 802.11ax/ac/n/a 5 GHz, IEEE 802.11n/b/g 2.4 GHz, WiFi Speeds AX1500m, 5 GHz: 1201 Mbps (802.11ax), WiFi Range: 2-3 Bedroom Houses, 4× Fixed High-Performance Antennas, 3× Gigabit LAN Ports, 1× Gigabit WAN Port",
+      "category": "Peripherals",
+      "product_type": "Router",
+      "price": 2090,
+      "image": "/images/17.jpg",
+      "id": 9
+    },
+    {
+      "brand": "HIKVISION",
+      "title": "Hikvision 4 Channel 2MP Wireless IP CCTV Kit NK42W0-1T(WD)",
+      "description": "4 x 2MP Wi-Fi Cameras with IP66 Protection / 4-Channel Wi-Fi NVR with Two External Antennas / Pre-installed 1TB Hard Drive / Easy to Install, User-Friendly Operation / Superior Wi-Fi Performance",
+      "specification": "Record from and Manage up to 4 Cameras, Recording Resolution up to 12MP, 10TB HDD Capacity (Available Separately, H.265+, H.265, H.264+ & H.264 Codecs, AcuSense Technology ",
+      "category": "Peripherals",
+      "product_type": "CCTV",
+      "price": 16300,
+      "image": "/images/18.jpg",
+      "id": 10
+    },
+    {
+      "brand": "Kingston",
+      "title": "Kingston FURY™ Beast DDR4 RGB Special Edition Memory",
+      "description": "Kingston FURY™ Beast DDR4 RGB Special Edition1 enhances both performance and style with speeds at 3200MT/s & 3600MT/s*, and unique white heat spreader and striking RGB lighting. ",
+      "specification": "Unique White Heat Spreader with Striking RGB Lighting1, Patented Kingston FURY Infrared Sync Technology™, Intel® XMP Certified, Ready for AMD Ryzen™",
+      "category": "Components",
+      "product_type": "Memory",
+      "price": 3800,
+      "image": "/images/19.jpg",
+      "id": 11
+    },
+    {
+      "brand": "Intel",
+      "title": "Intel® Core™ i9 processor 14900T (36M Cache, up to 5.50 GHz)",
+      "description": "Intel® Gaussian & Neural Accelerator, Intel® Deep Learning Boost (Intel® DL Boost) on CPU, Intel® Speed Shift Technology",
+      "specification": "Total Cores: 24, # of Performance-cores: 8, # of Efficient-cores: 16, Total Threads: 32, Max Turbo Frequency: 5.5GHz, Intel® Turbo Boost Max Technology 3.0 Frequency: 5.5GHz, Cache:36 MB Intel® Smart Cache, Max Memory Size (dependent on memory type): 192GB, Memory Types: Up to DDR5 5600 MT/s Up to DDR4 3200 MT/s  ",
+      "category": "Components",
+      "product_type": "Processor",
+      "price": 31500,
+      "image": "/images/20.jpg",
+      "id": 12
+    }
+  ],
+  "category": ["Components", "Peripherals", "Desktop", "Laptop"],
+  "product_type": [
+    {
+      "id": "1",
+      "category": "Components",
+      "product_type": "Processor"
+    },
+    {
+      "id": "2",
+      "category": "Components",
+      "product_type": "Memory"
+    },
+    {
+      "id": "3",
+      "category": "Components",
+      "product_type": "HDD"
+    },
+    {
+      "id": "4",
+      "category": "Peripherals",
+      "product_type": "CCTV"
+    },
+    {
+      "id": "5",
+      "category": "Peripherals",
+      "product_type": "Router"
+    },
+    {
+      "id": "6",
+      "category": "Peripherals",
+      "product_type": "Printer & Scanner"
+    },
+    {
+      "id": "7",
+      "category": "Peripherals",
+      "product_type": "Headset"
+    },
+    {
+      "id": "8",
+      "category": "Desktop",
+      "product_type": "Office"
+    },
+    {
+      "id": "9",
+      "category": "Desktop",
+      "product_type": "Gaming"
+    },
+    {
+      "id": "10",
+      "category": "Laptop",
+      "product_type": "Office"
+    },
+    {
+      "id": "11",
+      "category": "Laptop",
+      "product_type": "Gaming"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "brand_name": "A4Tech",
+      "image": "/brands/a4tech.png"
+    },
+    {
+      "id": 2,
+      "brand_name": "Adata",
+      "image": "/brands/adata.png"
+    },
+    {
+      "id": 3,
+      "brand_name": "AdLink",
+      "image": "/brands/adlink.png"
+    },
+    {
+      "id": 4,
+      "brand_name": "Ajhua",
+      "image": "/brands/ajhua.jpg"
+    },
+    {
+      "id": 5,
+      "brand_name": "AMD",
+      "image": "/brands/amd.jpg"
+    },
+    {
+      "id": 6,
+      "brand_name": "AOC",
+      "image": "/brands/aoc.png"
+    },
+    {
+      "id": 7,
+      "brand_name": "AsRock",
+      "image": "/brands/asrock.jpg"
+    },
+    {
+      "id": 8,
+      "brand_name": "Asus",
+      "image": "/brands/asus.png"
+    },
+    {
+      "id": 9,
+      "brand_name": "BenQ",
+      "image": "/brands/BenQ.png"
+    },
+    {
+      "id": 10,
+      "brand_name": "Biostar",
+      "image": "/brands/biostar.png"
+    },
+    {
+      "id": 11,
+      "brand_name": "Comfast",
+      "image": "/brands/comfast.png"
+    },
+    {
+      "id": 12,
+      "brand_name": "Corsair",
+      "image": "/brands/Corsair.png"
+    },
+    {
+      "id": 13,
+      "brand_name": "Dell",
+      "image": "/brands/dell.png"
+    },
+
+    {
+      "id": 14,
+      "brand_name": "D-Link",
+      "image": "/brands/dlink.png"
+    },
+    {
+      "id": 15,
+      "brand_name": "Edifier",
+      "image": "/brands/edifier.png"
+    },
+    {
+      "id": 16,
+      "brand_name": "epson",
+      "image": "/brands/epson.jpg"
+    },
+    {
+      "id": 17,
+      "brand_name": "Eset",
+      "image": "/brands/eset.png"
+    },
+    {
+      "id": 18,
+      "brand_name": "Gigabyte",
+      "image": "/brands/gigabyte.png"
+    },
+    {
+      "id": 19,
+      "brand_name": "Gloway",
+      "image": "/brands/gloway.png"
+    },
+    {
+      "id": 20,
+      "brand_name": "GPrinter",
+      "image": "/brands/gprinter.png"
+    },
+    {
+      "id": 21,
+      "brand_name": "GSkill",
+      "image": "/brands/gskill.png"
+    },
+    {
+      "id": 22,
+      "brand_name": "Hikvision",
+      "image": "/brands/hikvision.png"
+    },
+    {
+      "id": 23,
+      "brand_name": "Hitachi",
+      "image": "/brands/hitachi.png"
+    },
+    {
+      "id": 24,
+      "brand_name": "HKC",
+      "image": "/brands/hkc.png"
+    },
+    {
+      "id": 25,
+      "brand_name": "HP",
+      "image": "/brands/hp.png"
+    },
+    {
+      "id": 26,
+      "brand_name": "Huntkey",
+      "image": "/brands/huntkey.png"
+    },
+    {
+      "id": 27,
+      "brand_name": "Inplay",
+      "image": "/brands/inplay.png"
+    },
+    {
+      "id": 28,
+      "brand_name": "Intel",
+      "image": "/brands/intel.png"
+    },
+    {
+      "id": 29,
+      "brand_name": "Invidia",
+      "image": "/brands/invidia.jpg"
+    },
+    {
+      "id": 30,
+      "brand_name": "Kingmax",
+      "image": "/brands/kingmax.gif"
+    },
+    {
+      "id": 31,
+      "brand_name": "Kingston",
+      "image": "/brands/kingston.png"
+    },
+    {
+      "id": 32,
+      "brand_name": "Lenovo",
+      "image": "/brands/lenovo.png"
+    },
+    {
+      "id": 33,
+      "brand_name": "Mercusys",
+      "image": "/brands/mercusys.png"
+    },
+    {
+      "id": 34,
+      "brand_name": "Microsoft",
+      "image": "/brands/microsoft.png"
+    },
+    {
+      "id": 35,
+      "brand_name": "MSI",
+      "image": "/brands/msi.png"
+    },
+    {
+      "id": 36,
+      "brand_name": "NobleChairs",
+      "image": "/brands/noblechairs.png"
+    },
+    {
+      "id": 37,
+      "brand_name": "Nvision",
+      "image": "/brands/nvision.jpg"
+    },
+    {
+      "id": 38,
+      "brand_name": "Palit",
+      "image": "/brands/palit.png"
+    },
+    {
+      "id": 39,
+      "brand_name": "PowerLogic",
+      "image": "/brands/powerlogic.jpg"
+    },
+    {
+      "id": 40,
+      "brand_name": "Rakk",
+      "image": "/brands/rakk.jpeg"
+    },
+    {
+      "id": 41,
+      "brand_name": "Ramsta",
+      "image": "/brands/ramsta.jpg"
+    },
+    {
+      "id": 42,
+      "brand_name": "Rapoo",
+      "image": "/brands/rapoo.jpg"
+    },
+    {
+      "id": 43,
+      "brand_name": "Red Dragon",
+      "image": "/brands/reddragon.png"
+    },
+    {
+      "id": 44,
+      "brand_name": "ROG",
+      "image": "/brands/rog.png"
+    },
+    {
+      "id": 45,
+      "brand_name": "Samsung",
+      "image": "/brands/samsung.png"
+    },
+    {
+      "id": 46,
+      "brand_name": "Sandisc",
+      "image": "/brands/sandisc.png"
+    },
+    {
+      "id": 47,
+      "brand_name": "Sony",
+      "image": "/brands/sony.png"
+    },
+    {
+      "id": 48,
+      "brand_name": "Tenda",
+      "image": "/brands/tenda.png"
+    },
+    {
+      "id": 49,
+      "brand_name": "Toshiba",
+      "image": "/brands/toshiba.png"
+    },
+    {
+      "id": 50,
+      "brand_name": "TP-Link",
+      "image": "/brands/tplink.png"
+    },
+    {
+      "id": 51,
+      "brand_name": "Ubiquity",
+      "image": "/brands/ubnt.png"
+    },
+    {
+      "id": 52,
+      "brand_name": "ViewPaker",
+      "image": "/brands/viewpaker.png"
+    },
+    {
+      "id": 53,
+      "brand_name": "Viewsonic",
+      "image": "/brands/viewsonic.png"
+    }
+  ],
+  "contact-us": [
+    {
+      "telephone": "(083)123-456",
+      "mobile": "(+63)9123456789",
+      "Location": "National Highway, Koronadal City, South Cotabato, 9506 Philippines"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "service_title": "Computer Sales & Services",
+      "service_description": "We believe in bringing PC gaming to the masses. Select your budget, pick your games, and see how they perform, then let us build and optimize your gaming PC.",
+      "service_image": "/services/computer-sales.jpg"
+    },
+
+    {
+      "id": 2,
+      "service_title": "CCTV Installation & Maintenance",
+      "service_description": "Our highly trained techinicians have an excellent first-time fix rate and are available for advice and support through our 24/7 helpline, we provide remote diagnostics as part of our service. This allows us to remotely access your system and diagnose any issues, reducing the need for on-site visits and minimising any potential downtime",
+      "service_image": "/services/cctv_installation.jpg"
+    },
+    {
+      "id": 3,
+      "service_title": "Wireless Internet Service Provider (WISP)",
+      "service_description": "A wireless Internet service provider (WISP) is an Internet service provider that allows users to connect to a server through a wireless connection such as Wi-Fi, For consumers who wish to access our WISP connection, a small dish or antenna is placed on the roof of your house, connecting to your own router, and is pointed back to our nearest antenna site.",
+      "service_image": "/services/WISP.jpg"
+    },
+
+    {
+      "id": 4,
+      "service_title": "Computer Repair & Maintenance",
+      "service_description": "Setting up hardware and installing and configure software and drivers, Maintaining and repairing technological equipment (e.g. routers) or peripheral devices, Installing well-functioning LAN/WAN and other networks and manage components (servers, IPs etc.)",
+      "service_image": "/services/computer_maintenance.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Processors",
+      "prod_image": "/productslider/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "GPU",
+      "prod_image": "/productslider/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Laptop",
+      "prod_image": "/productslider/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Memory",
+      "prod_image": "/productslider/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Monitor",
+      "prod_image": "/productslider/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Gaming Chair",
+      "prod_image": "/productslider/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Motherboard",
+      "prod_image": "/productslider/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Desktop",
+      "prod_image": "/productslider/8.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "SSD",
+      "prod_image": "/productslider/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Headset",
+      "prod_image": "/productslider/10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Keyboard",
+      "prod_image": "/productslider/11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Mouse",
+      "prod_image": "/productslider/12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "CCTV",
+      "prod_image": "/productslider/13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Printer & Scanner",
+      "prod_image": "/productslider/14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Power Supply",
+      "prod_image": "/productslider/15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Network",
+      "prod_image": "/productslider/16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "UPS",
+      "prod_image": "/productslider/17.jpg"
+    }
+  ],
+
+  "carousel": [
+    {
+      "id": 1,
+      "carousel_title": "First Slide",
+      "carousel_desrition": "Promo 1",
+      "carousel_image": "/slider/1.jpg"
+    },
+    {
+      "id": 2,
+      "carousel_title": "Second Slide",
+      "carousel_desrition": "Promo 2",
+      "carousel_image": "/slider/2.jpg"
+    },
+    {
+      "id": 3,
+      "carousel_title": "Third Slide",
+      "carousel_desrition": "Promo 3",
+      "carousel_image": "/slider/3.jpg"
+    },
+    {
+      "id": 4,
+      "carousel_title": "Fourth Slide",
+      "carousel_desrition": "Promo 4",
+      "carousel_image": "/slider/4.jpg"
+    },
+    {
+      "id": 5,
+      "carousel_title": "Fourth Slide",
+      "carousel_desrition": "Promo 4",
+      "carousel_image": "/slider/5.png"
+    }
+  ]
+}
