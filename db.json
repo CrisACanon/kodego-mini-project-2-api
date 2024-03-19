@@ -4,29 +4,29 @@
       "brand": "Asus",
       "title": "Asus Desktop",
       "category": "Desktop",
-      "product_type": "Gaming",
+      "product_type": "Desktop Gaming",
       "price": 19000,
       "image": "/images/9.png",
       "id": 1
     },
     {
       "brand": "Asus",
-      "title": "ASUS Zenbook 14 OLED (UX3405) New Zen with AI",
+      "title": "ASUS Zenbook 14 OLED (UX3405) New Zen with AI Laptop",
       "description": "Go the extra mile with the remarkably sleek Zenbook 14 OLED — the ultimate ultraportable laptop that takes sophistication to a whole new level. Seize every moment using the enhanced extended-life battery.",
       "specification": "14' 3K OLED 16:10 120 Hz refresh rate, Intel® Core™ Ultra 155H Processor 16GB DDR5, 1TB PCIe® 4.0 SSD, Intel® Arc™ Graphics, Intel® AI Boost NPU, Windows 11 Home, Office Home and Student 2021 included",
       "category": "Laptop",
-      "product_type": "Office",
+      "product_type": "Office Laptop",
       "price": 69995,
       "image": "/images/11.png",
       "id": 2
     },
     {
       "brand": "Acer",
-      "title": "Predator Helios Neo PHN16-71-59F1 OPI",
+      "title": "Predator Helios Neo PHN16-71-59F1 OPI Laptop",
       "description": "Elevate your gaming experience with the Acer Predator Helios Neo laptop. Intel Core i5-13500HX, 8GB DDR5, 512GB PCIe Gen4 SSD, RTX 4050 GPU, and Windows 11 deliver top-notch performance. Plus, it comes with a stylish Acer Predator Gaming Chair in Black/Blue.",
       "specification": "Windows 11 Home, Intel® Core i5-13500HX, 8GB of DDR5 upgradable to 32 GB, 512GB SSD 16.0' display with IPS , Full HD 1920 x1080, NVIDIA® GeForce RTX™ 4050 with 6GB of dedicated GDDR6 VRAM",
       "category": "Laptop",
-      "product_type": "Gaming",
+      "product_type": "Gaming Laptop",
       "price": 75999,
       "image": "/images/4.png",
       "id": 3
@@ -37,7 +37,7 @@
       "description": "Aspire TC-1750 | Intel Core i5-12400 processor, 6 cores 12 Threads, 18MB L3 Cache, 2.5GHz Base 4.4 GHz Max Frequency 65W PBP | 8 GB DDR4 3200MHz UDIMM | 256 GB M.2 2280 PCI-E SSD 1 TB 3.5-inch 7200 RPM | NVIDIA GeForce GT 730 with 2 GB of DDR3 (supporting: DVI, HDMI)",
       "specification": "Windows 11 Home SL, Intel® Core™ i5-12400 processor, 8GB DDR4, 256GB SSD + 1TB HDD, NVIDIA® GeForce® GT 730 with 2 GB of DDR3, 21.5 screen, 1920x1080 resolution",
       "category": "Desktop",
-      "product_type": "Office",
+      "product_type": "Office Desktop",
       "image": "/images/12.jpg",
       "price": 47999,
       "id": 4
@@ -129,6 +129,50 @@
       "price": 31500,
       "image": "/images/20.jpg",
       "id": 12
+    },
+    {
+      "brand": "Logitic",
+      "title": "Logitech G102 Dedicated Wired",
+      "description": "Logitech Wired Gaming Mouse Optical Gaming Brand Mouse G102 For PC",
+      "specification": "2.4Ghz Wireless, DPI: 8000",
+      "category": "Peripherals",
+      "product_type": "Mouse",
+      "price": 995,
+      "image": "/images/21.jpg",
+      "id": 13
+    },
+    {
+      "brand": "APC",
+      "title": "APC 230V Input Stand Alone Uninterruptible Power Supply",
+      "description": "The Schneider Electric APC Back-Ups 500VA,AVR, IEC outlets has 4 socket outlets. It includes cable of 1.83 m length.",
+      "specification": "500VA (300W)",
+      "category": "Peripherals",
+      "product_type": "UPS & AVR",
+      "price": 4500,
+      "image": "/images/22.jpg",
+      "id": 14
+    },
+    {
+      "brand": "PICTEK",
+      "title": "Mechanical Wired Keyboard RGB Backlit Blue Switches",
+      "description": "Mechanical Keyboard Wired RGB Backlit Blue Switches QWERTY TKL 80% Compact",
+      "specification": "Multimedia Integration, Enhanced Function Keys, N-Key Rollover, RGB Lighting, Metal Construction, Gaming, Office, Plug & Play, Illuminated, Water Resistant, Mechanical, Blue Switches, Ten Key Less, 80%, N Key Rollover",
+      "category": "Peripherals",
+      "product_type": "Keyboard",
+      "price": 1200,
+      "image": "/images/23.jpg",
+      "id": 15
+    },
+    {
+      "brand": "Asus",
+      "title": "ASUS VP249QGR Gaming Monitor",
+      "description": "ASUS VP249QGR Gaming Monitor – 23.8 inch, Full HD, IPS, Frameless, 1ms MPRT, 144Hz, Adaptive-Sync (FreeSync™), ELMB, Shadow Boost, Low Blue Light, Flicker Free, Wall Mountable",
+      "specification": "23.8 inch Full HD (1920x1080) LED backlight display with IPS 178° wide viewing angle panel, Up to 144Hz refresh rate with Adaptive-Sync (FreeSync™)",
+      "category": "Peripherals",
+      "product_type": "Monitor",
+      "price": 7900,
+      "image": "/images/1.png",
+      "id": 15
     }
   ],
   "category": ["Components", "Peripherals", "Desktop", "Laptop"],
@@ -187,6 +231,11 @@
       "id": "11",
       "category": "Laptop",
       "product_type": "Gaming"
+    },
+    {
+      "id": "12",
+      "category": "Peripherals",
+      "product_type": "Mouse"
     }
   ],
   "brands": [
@@ -506,7 +555,7 @@
     {
       "id": 3,
       "name": "Laptop",
-      "prod_image": "/productslider/3.jpg"
+      "prod_image": "/productslider/3.png"
     },
     {
       "id": 4,
