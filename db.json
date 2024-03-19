@@ -236,6 +236,16 @@
       "id": "12",
       "category": "Peripherals",
       "product_type": "Mouse"
+    },
+    {
+      "id": "13",
+      "category": "Peripherals",
+      "product_type": "Keyboard"
+    },
+    {
+      "id": "14",
+      "category": "Peripherals",
+      "product_type": "Monitor"
     }
   ],
   "brands": [
@@ -378,7 +388,7 @@
     {
       "id": 28,
       "brand_name": "Intel",
-      "image": "/brands/intel.png"
+      "image": "/brands/intel.jpg"
     },
     {
       "id": 29,
@@ -473,7 +483,7 @@
     {
       "id": 47,
       "brand_name": "Sony",
-      "image": "/brands/sony.png"
+      "image": "/brands/sony.jpg"
     },
     {
       "id": 48,
@@ -483,7 +493,7 @@
     {
       "id": 49,
       "brand_name": "Toshiba",
-      "image": "/brands/toshiba.png"
+      "image": "/brands/Toshiba.png"
     },
     {
       "id": 50,
